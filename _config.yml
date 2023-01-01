@@ -1,5 +1,5 @@
 # Site settings
-title: Jekyll-Uno
+title: Milk717 Blog
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'https://milk717.github.io/'
 baseurl: ''
@@ -8,7 +8,7 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
+  name: 'Milk717'
   email: robolindasoo@gmail.com
   twitter_username: joshgerdes
   facebook_username: joshgerdes
