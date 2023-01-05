@@ -36,10 +36,10 @@ gem 'eventmachine'
 ```
 
 라이브러리를 설치한 후에 `bundle install` 명령어를 사용하게 되면 잘 동작하는듯 하다가 다음과 같은 에러가 발생한다.
-![img.png](/_posts/img/2023-01-04-solved-M1-Mac-Ruby3-eventmachine-error/img.png)  
+![img.png](/assets/img/2023-01-04-solved-M1-Mac-Ruby3-eventmachine-error/img.png)  
 <br/>
 그리고 더 아래쪽에 보면 다음과 같은 로그를 볼 수 있다.
-![img.png](/_posts/img/2023-01-04-solved-M1-Mac-Ruby3-eventmachine-error/img2.png)  
+![img.png](/assets/img/2023-01-04-solved-M1-Mac-Ruby3-eventmachine-error/img2.png)  
 로그를 읽어보면 openssl이라는 헤더파일이 존재하지 않아서 문제가 생기는 것 같다.  
 그래서 homebrew를 사용해서 openssl을 설치해주었다. 명령어는 다음과 같다.
 ```shell
