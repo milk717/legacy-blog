@@ -20,6 +20,3 @@ Gemfile.lock
 node_modules
 package-lock.json
 
-#idea
-vcs.xml
-workspace.xml
