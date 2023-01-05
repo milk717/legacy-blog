@@ -46,8 +46,6 @@ const allowedDomains = [
     'localhost:4000',
 
     
-        'chirpy-img.netlify.app',
-    
 
     'fonts.gstatic.com',
     'fonts.googleapis.com',
