@@ -25,7 +25,7 @@
       margin-right: 0.5rem;
     }
 
-    > a { /* post's title */
+    > a { /* img's title */
       @extend %no-bottom-border;
 
       font-size: 1.1rem;
@@ -33,7 +33,7 @@
 
     > span:last-child {
       white-space: nowrap;
-    } /* post's date */
+    } /* img's date */
   }
 }
 

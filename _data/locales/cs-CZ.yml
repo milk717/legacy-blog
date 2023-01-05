@@ -28,7 +28,7 @@ panel:
   toc: Obsah
 
 copyright:
-  # Shown at the bottom of the post
+  # Shown at the bottom of the img
   license:
     template: Tento příspěvek je licencován pod :LICENSE_NAME autorem.
     name: CC BY 4.0

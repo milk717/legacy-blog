@@ -98,7 +98,7 @@
   }
 
   a {
-    /* post title in Archvies */
+    /* img title in Archvies */
     margin-left: 2.5rem;
     position: relative;
     top: 0.1rem;
@@ -108,7 +108,7 @@
     }
 
     &::before {
-      /* the dot before post title */
+      /* the dot before img title */
       content: "";
       display: inline-block;
       position: relative;

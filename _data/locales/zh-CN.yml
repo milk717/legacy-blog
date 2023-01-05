@@ -28,7 +28,7 @@ panel:
   toc: 文章内容
 
 copyright:
-  # Shown at the bottom of the post
+  # Shown at the bottom of the img
   license:
     template: 本文由作者按照 :LICENSE_NAME 进行授权
     name: CC BY 4.0

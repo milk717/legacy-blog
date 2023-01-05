@@ -28,7 +28,7 @@ panel:
   toc: Зміст
 
 copyright:
-  # Shown at the bottom of the post
+  # Shown at the bottom of the img
   license:
     template: Публікація захищена ліцензією :LICENSE_NAME.
     name: CC BY 4.0

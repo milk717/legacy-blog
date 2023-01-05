@@ -171,13 +171,13 @@ function displayPageviews(data) {
     let hasInit = getInitStatus();
     const rows = data.rows; /* could be undefined */
 
-    if ($("#post-list").length > 0) { /* the Home page */
-        $(".post-preview").each(function () {
+    if ($("#img-list").length > 0) { /* the Home page */
+        $(".img-preview").each(function () {
             const path = $(this).find("a").attr("href");
             tacklePV(rows, path, $(this).find(".pageviews"), hasInit);
         });
 
-    } else if ($(".post").length > 0) { /* the post */
+    } else if ($(".img").length > 0) { /* the img */
         const path = window.location.pathname;
         tacklePV(rows, path, $("#pv"), hasInit);
     }

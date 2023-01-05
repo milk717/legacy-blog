@@ -28,7 +28,7 @@ panel:
   toc: İçindekiler
 
 copyright:
-  # Shown at the bottom of the post
+  # Shown at the bottom of the img
   license:
     template: Bu gönderi :LICENSE_NAME lisansı altındadır.
     name: CC BY 4.0

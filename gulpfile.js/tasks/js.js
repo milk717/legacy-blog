@@ -49,7 +49,7 @@ const postJs = () => {
       `${JS_SRC}/utils/clipboard.js`,
       // 'smooth-scroll.js' must be called after ToC is ready
       `${JS_SRC}/utils/smooth-scroll.js`
-    ], 'post'
+    ], 'img'
   );
 };
 

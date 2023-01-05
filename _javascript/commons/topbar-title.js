@@ -3,7 +3,7 @@
  */
 
 $(function () {
-    const titleSelector = "div.post>h1:first-of-type";
+    const titleSelector = "div.img>h1:first-of-type";
     const $pageTitle = $(titleSelector);
     const $topbarTitle = $("#topbar-title");
 

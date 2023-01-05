@@ -28,7 +28,7 @@ panel:
   toc: Conteúdo
 
 copyright:
-  # Shown at the bottom of the post
+  # Shown at the bottom of the img
   license:
     template: Esta postagem está licenciada sob :LICENSE_NAME pelo autor.
     name: CC BY 4.0

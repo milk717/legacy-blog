@@ -28,7 +28,7 @@ panel:
   toc: 바로가기
 
 copyright:
-  # Shown at the bottom of the post
+  # Shown at the bottom of the img
   license:
     template: 이 기사는 저작권자의 :LICENSE_NAME 라이센스를 따릅니다.
     name: CC BY 4.0

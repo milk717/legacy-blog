@@ -28,7 +28,7 @@ panel:
   toc: အကြောင်းအရာများ
 
 copyright:
-  # Shown at the bottom of the post
+  # Shown at the bottom of the img
   license:
     template: ဤပို့စ်သည်စာရေးသူ၏ :LICENSE_NAME လိုင်စင်ရထားသည်။
     name: CC BY 4.0
