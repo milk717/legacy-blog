@@ -6,13 +6,13 @@ tags: [GitHub Blog]
 ---
 ---
 
-## Jekyll 로컬 실행 방법
+# Jekyll 로컬 실행 방법
 Github 블로그에서 새로운 게시물 작성 후 푸시 하기 전에 로컬에서 확인해 보고 싶은 경우가 있다.  
 로컬에서 지킬을 실행하기 위해서는 아래와 같은 명령어를 사용하면 된다.
 ```shell
 bundle exec jekyll serve
 ```
-### liveload로 실행하기
+## liveload로 실행하기
 만약 수정할 것이 많거나 style 등을 수정할 때면 바뀐 상태를 즉각적으로 확인하고싶다면  
 liveload 옵션을 추가해서 아래와 같은 명령어 실행하면 된다.
 ```shell
@@ -21,25 +21,25 @@ bundle exec jekyll serve --liveload
 
 <br/><br/>
 
-## LiveLoad 실행 시 eventmachine 컴파일 에러 해결
-### eventmachine 설치하기
+# LiveLoad 실행 시 eventmachine 컴파일 에러 해결
+## eventmachine 설치하기
 liveload를 실행하기 위해서는 eventmachine이라는 라이브러리가 필요하다.
 eventmachine은 다음 두 가지 방법으로 설치할 수 있다.
-#### RubyGems로 설치
+### RubyGems로 설치
 ```shell
 gem install eventmachine
 ```
-#### Bundle를 사용하는 경우
+### Bundle를 사용하는 경우
 Gemfile에 다음 코드를 추가한다.
 ```shell
 gem 'eventmachine'
 ```
 
 라이브러리를 설치한 후에 `bundle install` 명령어를 사용하게 되면 잘 동작하는듯 하다가 다음과 같은 에러가 발생한다.
-![img.png](/assets/img/2023-01-04-solved-M1-Mac-Ruby3-eventmachine-error/img.png)  
+![img.png](/assets/img/2023-01-04-M1-Mac-Ruby3-eventmachine-es/img.png)  
 <br/>
 그리고 더 아래쪽에 보면 다음과 같은 로그를 볼 수 있다.
-![img.png](/assets/img/2023-01-04-solved-M1-Mac-Ruby3-eventmachine-error/img2.png)  
+![img.png](/assets/img/2023-01-04-M1-Mac-Ruby3-eventmachine-es/img2.png)  
 로그를 읽어보면 openssl이라는 헤더파일이 존재하지 않아서 문제가 생기는 것 같다.  
 그래서 homebrew를 사용해서 openssl을 설치해주었다. 명령어는 다음과 같다.
 ```shell
