@@ -67,13 +67,11 @@ Tistory나 Velog를 사용했다면 이런 시련은 겪지 않아도 됐고, �
 개발 공부를 열심히 하는 것도 중요하지만 해결책이 보이지 않아 답답하고 힘든 상황에서 포기하지 않는 마음을 기르는 것도 개발 공부의 일종이라고 생각한다.
 
 # 요약
-📌깃허브 블로그 전체에 CSS가 적용되지 않는다면 아래 게시물을 참고!  
+## 📌깃허브 블로그 전체에 CSS가 적용되지 않는다면 아래 게시물을 참고!  
 [GitHub Blog Jekyll 테마 적용 시 css 적용 안되는 문제 해결하기](https://milk717.github.io/posts/Jekyll-theme-css-problem/)  
-<br/><br/>
-📌메인화면은 CSS가 적용되는데 포스트 화면에서만 CSS가 적용되지 않는다면  
+## 📌메인화면은 CSS가 적용되는데 포스트 화면에서만 CSS가 적용되지 않는다면  
 `_config.yml` 파일에서 아래 부분을 img -> post로 변경할 것!
 ![img6.png](/assets/img/2023-01-05-jekyll-post-css-ps/img6.png)
-<br/><br/>
-📌이미지가 로딩되지 않는다면 `_config.yml`에서 `img_cdn: 'https://chirpy-img.netlify.app'`부분을 주석처리 하기  
+## 📌이미지가 로딩되지 않는다면 `_config.yml`에서 `img_cdn: 'https://chirpy-img.netlify.app'`부분을 주석처리 하기  
 자세한 내용은 [chirpy 테마의 Demo 블로그에 나와있는 게시글을 참고할 것](https://chirpy.cotes.page/posts/write-a-new-post/#cdn-url)  
 
