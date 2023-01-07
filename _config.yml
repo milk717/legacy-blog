@@ -29,7 +29,7 @@ description: '항상 배우는 자세로'
 url: 'https://milk717.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: milk717             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -150,7 +150,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: false
+      comments: true
   - scope:
       path: ''
       type: tabs             # see `site.collections`
@@ -197,3 +197,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# 게시글
+future: true
+unpublished: true
+
