@@ -68,7 +68,7 @@ Tistory나 Velog를 사용했다면 이런 시련은 겪지 않아도 됐고, �
 
 # 요약
 ## 📌깃허브 블로그 전체에 CSS가 적용되지 않는다면 아래 게시물을 참고!  
-[GitHub Blog Jekyll 테마 적용 시 css 적용 안되는 문제 해결하기](https://milk717.github.io/posts/Jekyll-theme-css-problem/)  
+[GitHub Blog Jekyll 테마 적용 시 css 적용 안되는 문제 해결하기](https://milk717.github.io/posts/Jekyll-theme-css-ps/)  
 ## 📌메인화면은 CSS가 적용되는데 포스트 화면에서만 CSS가 적용되지 않는다면  
 `_config.yml` 파일에서 아래 부분을 img -> post로 변경할 것!
 ![img6.png](/assets/img/2023-01-05-jekyll-post-css-ps/img6.png)
