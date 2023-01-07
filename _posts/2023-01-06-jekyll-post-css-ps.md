@@ -1,6 +1,6 @@
 ---
 title:  "jekyll-theme-chirpy 테마 적용시 포스팅 화면 CSS 누락 문제 해결하기"
-date:   2023-01-05 15:30:17
+date:   2023-01-06 15:30:17
 categories: [GitHub Blog]
 tags: [GitHub Blog, Jekyll]
 ---
