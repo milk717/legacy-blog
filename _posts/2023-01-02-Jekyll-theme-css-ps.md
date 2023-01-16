@@ -1,6 +1,6 @@
 ---
 title:  "GitHub Blog Jekyll 테마 적용 시 css 적용 안되는 문제 해결하기"
-date:   2023-01-02 01:13:23
+date:   2023-01-02 01:13:23 +9
 categories: [GitHub Blog]
 tags: [GitHub Blog, Jekyll, M1 Mac]
 ---

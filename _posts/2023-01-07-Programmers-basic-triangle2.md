@@ -1,6 +1,6 @@
 ---
 title:  "[프로그래머스 입문] 삼각형의 완성조건 (2)"
-date:   2023-01-07 14:46:17
+date:   2023-01-07 14:46:17 +9
 categories: [Algorithm]
 tags: [Algorithm, Programmers]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "[M1 Mac]Ruby 3.0 liveload 실행 시 eventmachine 컴파일 에러 문제 해결하기"
-date:   2023-01-05 00:09:23
+date:   2023-01-05 00:09:23 +9
 categories: [GitHub Blog]
 tags: [GitHub Blog]
 ---
