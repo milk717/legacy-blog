@@ -1,6 +1,6 @@
 ---
 title:  "[리펙터링] 11.2 함수 매개변수화하기"
-date:   2023-01-08 23:17:17 +9
+date:   2023-01-08 11:17:17 +9
 categories: [Book]
 tags: [refactoring, study]
 ---
