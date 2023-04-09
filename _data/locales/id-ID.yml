@@ -28,7 +28,7 @@ panel:
   toc: Konten
 
 copyright:
-  # Shown at the bottom of the img
+  # Shown at the bottom of the post
   license:
     template: Postingan ini dilisensikan di bawah :LICENSE_NAME oleh penulis.
     name: CC BY 4.0

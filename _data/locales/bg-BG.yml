@@ -28,7 +28,7 @@ panel:
   toc: Съдържание
 
 copyright:
-  # Shown at the bottom of the img
+  # Shown at the bottom of the post
   license:
     template: Тази публикация е лицензирана под :LICENSE_NAME от автора.
     name: CC BY 4.0

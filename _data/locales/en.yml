@@ -28,9 +28,9 @@ panel:
   toc: Contents
 
 copyright:
-  # Shown at the bottom of the img
+  # Shown at the bottom of the post
   license:
-    template: This img is licensed under :LICENSE_NAME by the author.
+    template: This post is licensed under :LICENSE_NAME by the author.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
@@ -89,5 +89,5 @@ categories:
     singular: category
     plural: categories
   post_measure:
-    singular: img
+    singular: post
     plural: posts

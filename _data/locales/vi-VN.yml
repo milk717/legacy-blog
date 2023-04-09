@@ -28,7 +28,7 @@ panel:
   toc: Mục lục
 
 copyright:
-  # Shown at the bottom of the img
+  # Shown at the bottom of the post
   license:
     template: Bài viết này được cấp phép bởi tác giả theo giấy phép :LICENSE_NAME.
     name: CC BY 4.0
